@@ -2,8 +2,8 @@
 
 ## Student Practical
 
-**NAME** **:-** SANDESH PATE,
-**ROLL NO** **:-**  25,
+**NAME** **:-** Vrushabh Sonawane,
+**ROLL NO** **:-**  26,
 
 The practical covers:
 
